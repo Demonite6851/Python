@@ -1,0 +1,38 @@
+{
+    "position": [
+        10,
+        21
+    ],
+    "level": 2,
+    "experience": 92,
+    "skill_points": 1,
+    "skills": {
+        "Darkvision": 0,
+        "Fortunate": 0,
+        "Hard Hitting": 0,
+        "Surefire": 0,
+        "Quick Learner": 0,
+        "Conservation": 0,
+        "Mastery": 0
+    },
+    "harvester_tier": 2,
+    "inventory": {
+        "raw_materials": {
+            "Amethyst": 8,
+            "Deep Algae": 5,
+            "Emerald": 14,
+            "Large Roots": 6,
+            "Luminous Moss": 3,
+            "Raw Copper": 7,
+            "Raw Iron": 24,
+            "Raw Platinum": 5,
+            "Sapphire": 8,
+            "Stone": 19,
+            "Topaz": 9
+        },
+        "crafted_items": {}
+    },
+    "depth": 1,
+    "luck": 0,
+    "vision": 3
+}
